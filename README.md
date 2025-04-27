@@ -1,4 +1,5 @@
 🛡️ Meta-Learning Combined with Federated Learning for Blackhole Attack Detection
+
 📚 Project Overview
 This project integrates Model-Agnostic Meta-Learning (MAML) with Federated Learning (FL) to detect blackhole attacks in distributed network environments.
 The framework aims to provide privacy-preserving, scalable, and adaptive cybersecurity solutions against dynamic attack patterns.
